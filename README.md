@@ -21,7 +21,7 @@ The data is stored in two `unordered_map<uint64_t, unordered_set<uint64_t>>` str
 1. Clone the project to a folder on your device:
    
    ```bash
-   https://github.com/kamawui/Website-Analytics.git
+   git clone https://github.com/kamawui/Website-Analytics.git
    ```
    
 2. Navigate to the project folder:
